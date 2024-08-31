@@ -18,4 +18,4 @@ echo 'CHECK SHARDS AND REPLICAS'
 #./scripts/init-redis-cache.sh
 sleep 5s
 echo 'CHECK REDIS CACHE'
-./scripts/check-shards-replicas.sh
+./scripts/check-redis-cache.sh
